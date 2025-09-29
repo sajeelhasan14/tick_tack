@@ -4,4 +4,4 @@ A new Flutter project.
 
 ## Getting Started
 
-![App Screenshot](mockup/screen.jpeg)
+![App Screenshot](mockup/screen.jpg)
